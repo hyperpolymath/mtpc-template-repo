@@ -1,34 +1,34 @@
-= {{PROJECT_NAME}} - Citation Guide
+= mtpc-template-repo - Citation Guide
 :toc:
 
 == BibTeX
 
 [source,bibtex]
 ----
-@software{{{PROJECT_NAME}}_{{CURRENT_YEAR}},
+@software{mtpc-template-repo_{{CURRENT_YEAR}},
   author = {{{AUTHOR_LAST}}, {{AUTHOR_FIRST}}},
-  title = {{{PROJECT_NAME}}},
+  title = {mtpc-template-repo},
   year = {{{CURRENT_YEAR}}},
-  url = {https://github.com/{{OWNER}}/{{PROJECT_NAME}}},
+  url = {https://github.com/hyperpolymath/mtpc-template-repo},
   license = {PMPL-1.0-or-later}
 }
 ----
 
 == Harvard Style
 
-{{AUTHOR_LAST}}, {{AUTHOR_INITIALS}} ({{CURRENT_YEAR}}) _{{PROJECT_NAME}}_ [Computer software]. Available at: https://github.com/{{OWNER}}/{{PROJECT_NAME}}
+{{AUTHOR_LAST}}, {{AUTHOR_INITIALS}} ({{CURRENT_YEAR}}) _mtpc-template-repo_ [Computer software]. Available at: https://github.com/hyperpolymath/mtpc-template-repo
 
 == OSCOLA
 
-{{AUTHOR}}, '{{PROJECT_NAME}}' ({{CURRENT_YEAR}}) <https://github.com/{{OWNER}}/{{PROJECT_NAME}}>
+{{AUTHOR}}, 'mtpc-template-repo' ({{CURRENT_YEAR}}) <https://github.com/hyperpolymath/mtpc-template-repo>
 
 == MLA
 
-{{AUTHOR_LAST}}, {{AUTHOR_FIRST}} "{{PROJECT_NAME}}." {{CURRENT_YEAR}}, github.com/{{OWNER}}/{{PROJECT_NAME}}.
+{{AUTHOR_LAST}}, {{AUTHOR_FIRST}} "mtpc-template-repo." {{CURRENT_YEAR}}, github.com/hyperpolymath/mtpc-template-repo.
 
 == APA 7
 
-{{AUTHOR_LAST}}, {{AUTHOR_INITIALS}} ({{CURRENT_YEAR}}). _{{PROJECT_NAME}}_ [Computer software]. GitHub. https://github.com/{{OWNER}}/{{PROJECT_NAME}}
+{{AUTHOR_LAST}}, {{AUTHOR_INITIALS}} ({{CURRENT_YEAR}}). _mtpc-template-repo_ [Computer software]. GitHub. https://github.com/hyperpolymath/mtpc-template-repo
 
 == See Also
 
