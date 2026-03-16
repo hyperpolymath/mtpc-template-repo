@@ -1,0 +1,26 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+# Clade declaration — part of the gv-clade-index registry
+# See: https://github.com/hyperpolymath/gv-clade-index
+
+[identity]
+uuid = "a7feab15-3c46-5173-b3b8-f296409bd738"
+primary-forge = "github"
+primary-owner = "hyperpolymath"
+canonical-name = "mtpc-template-repo"
+prefixed-name = "rm-mtpc-template-repo"
+
+[clade]
+primary = "rm"
+secondary = []
+assigned = "2026-03-16"
+rationale = ""
+
+[forges]
+github = "hyperpolymath/mtpc-template-repo"
+gitlab = "hyperpolymath/mtpc-template-repo"
+bitbucket = "hyperpolymath/mtpc-template-repo"
+
+[lineage]
+type = "standalone"
+parent = "MTPC template repository"
+born = "2026-03-16"
