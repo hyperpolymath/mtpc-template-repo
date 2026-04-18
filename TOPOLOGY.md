@@ -18,7 +18,7 @@ mtpc-template-repo/
 ├── docs/                # Documentation structure
 ├── .machine_readable/   # SCM checkpoint files
 ├── .github/workflows/   # RSR standard workflows (17 total)
-└── justfile            # Build orchestration recipe
+└── Justfile            # Build orchestration recipe
 ```
 
 ## Data Flow
